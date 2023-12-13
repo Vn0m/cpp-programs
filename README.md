@@ -5,6 +5,10 @@ Welcome to my repository for fun C++ programs! Here, you'll find a collection of
 ## Programs
 
 - **Program 1:** A music quiz program with scores using 2d arrays.
+- **Program 2:** A rock paper scissors game.
+- **Program 3:** Implementation of bubble sort.
+- **Program 4:** Bnaking system with different functions.
+- **Program 5:** A card validator program with luhn's algorithm.
 
 
 ## Getting Started
