@@ -9,7 +9,8 @@ Welcome to my repository for fun C++ programs! Here, you'll find a collection of
 - **Program 3:** Implementation of bubble sort.
 - **Program 4:** Banking system with different functions.
 - **Program 5:** A card validator program with luhn's algorithm.
-- **Program 6:** Movie manager program.
+- **Program 6:** Tic tac toe game.
+- **Program 7:** Movie manager program.
 
 
 
