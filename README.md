@@ -7,8 +7,11 @@ Welcome to my repository for fun C++ programs! Here, you'll find a collection of
 - **Program 1:** A music quiz program with scores using 2d arrays.
 - **Program 2:** A rock paper scissors game.
 - **Program 3:** Implementation of bubble sort.
-- **Program 4:** Bnaking system with different functions.
+- **Program 4:** Banking system with different functions.
 - **Program 5:** A card validator program with luhn's algorithm.
+- **Program 6:** Tic tac toe game.
+- **Program 7:** Movie manager program.
+
 
 
 ## Getting Started
