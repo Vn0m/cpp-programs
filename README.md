@@ -13,6 +13,7 @@ Welcome to my repository for fun C++ programs! Here, you'll find a collection of
 - **Program 7:** Movie manager program.
 - **Program 8:** Palindrome word checker.
 - **Program 9:** Password generator.
+- **Program 10:** Shop inventory system.
 
 
 
