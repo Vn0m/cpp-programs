@@ -14,7 +14,7 @@ Welcome to my repository for fun C++ programs! Here, you'll find a collection of
 - **Program 8:** Palindrome word checker.
 - **Program 9:** Password generator.
 - **Program 10:** Shop inventory system.
-- **Program 11:** Country itinerary program.
+- **Program 11:** Country itinerary program using sorting and searching algorithms.
 
 
 ## Getting Started
